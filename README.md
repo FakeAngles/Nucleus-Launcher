@@ -11,6 +11,6 @@ Console
 
 
 
-If you don't want to use my Release, you can make your own exe using pyinstaller --onefile Launcher_Console.py or pyinstaller --onefile Launcher_GUI.py
+If you don't want to use my Release, you can make your own exe using pyinstaller --onefile Launcher_Console.py or pyinstaller --onefile Launcher_Launcher.py
 
 But before that, install python and all dependencies
